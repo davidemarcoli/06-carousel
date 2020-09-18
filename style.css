@@ -1,0 +1,14 @@
+img {
+    position: relative;
+    z-index: 1;
+}
+
+.test {
+    background-color: black;
+    z-index: 10;
+    transform: translate(29em, -17.75em);
+}
+
+#carouselExampleIndicators {
+    z-index: 2;
+}
